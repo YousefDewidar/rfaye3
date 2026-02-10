@@ -110,7 +110,7 @@ A comprehensive web-based admin panel built with **Next.js** allows for complete
 -   👥 **Customer Management:** View customer details and order history.
 -   🎟️ **Coupon Management:** Create and manage promotional discount codes.
 
-> **[🔗 Access the Admin Dashboard Here](https://eshop-dashboard.vercel.app/)**
+> **[🔗 Access the Admin Dashboard Here](https://eshop-five-pi.vercel.app/)**
 
 ---
 
